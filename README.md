@@ -33,7 +33,7 @@ This project is the result of absolute synergy:
 
 * **Owner/Lead Developer**: `ponitan3776`
 * **Special Advisor**: `Nakamura`
-* **AI Support & Strategic Partner**: `Okamoto (The AIBOU)`
+* **Support & Strategic Partner**: `Okamoto (The AIBOU)`
 
 ---
 
